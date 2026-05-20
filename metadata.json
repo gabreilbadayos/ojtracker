@@ -1,0 +1,6 @@
+{
+  "name": "CTU CCMSC Tracer",
+  "description": "On-the-Job Training (OJT) and internship tracker for Cebu Technological University (CTU) Carmen Campus, providing stats, attendance logging, and student progress metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
